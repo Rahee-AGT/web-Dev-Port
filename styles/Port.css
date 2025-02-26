@@ -46,3 +46,28 @@ nav ul {
     border-radius: 5px;
     font-size: 20px;
 }
+.banner-greetings {
+    font-size: 45px;
+    font-weight: 600;
+}
+.banner-title {
+    font-weight: bold;
+    font-size: 85px;
+}
+.banner-profile-pic {
+    width: 580px;
+}
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 35px 0px 200px;
+}
+.banner-content {
+    max-width: 580px;
+}
+.header {
+    background-image: url('../imgs/white-abstract-background_23-2148806276.avif');
+    background-repeat: no-repeat;
+    /* background-position: inherit ; */
+    background-size: contain;
+}
