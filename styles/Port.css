@@ -69,5 +69,5 @@ nav ul {
     background-image: url('../imgs/white-abstract-background_23-2148806276.avif');
     background-repeat: no-repeat;
     /* background-position: inherit ; */
-    background-size: contain;
+    background-size: cover;
 }
