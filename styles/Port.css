@@ -78,20 +78,34 @@ nav ul {
 }
 .section-description {
     font-size: 18px;
-    color: #757575;
+    color: white;
 }
 .about {
     border-radius: 10px;
     padding: 130px 150px;
+    background-color: #FD6E0A;
+    /* width: 1140px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 1;
+    /* display: block; */
+    border: 2px solid red;
+    
+    
 }
 main {
-    max-width: 1140px;
+    /* max-width: 1140px; */
     margin: 0 auto;
     text-align: center;
     margin-top: 130px;
+    border: 2px solid green;
+    width: 100%;
 }
 .item-description {
     font-weight: 600;
+    
 }
 .about-items {
     display: flex;
