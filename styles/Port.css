@@ -124,7 +124,8 @@
   
   
   .skills-container{
-      display: grid;
+      display: grid table-column-group;
+      width: 500px;
       gap: 24px;
   }
   
